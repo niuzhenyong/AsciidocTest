@@ -4,6 +4,7 @@
 // 章节自动编号
 :sectnums:
 :toc: auto
+//:doctype: book
 
 文档的基本介绍第一句。
 文档的基本介绍第二句，主要用来测试两句之间是否存在空格。
@@ -19,6 +20,7 @@ AsciiDoc处理器名称为： *asciidoctor* ，版本编号({asciidoctor-version
 * attribute-missing = {attribute-missing}
 * asciidoctor-version = {asciidoctor-version}
 * toc = {toc}
+* doctype = {doctype}
 
 == 第二章
 
