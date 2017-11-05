@@ -3,7 +3,7 @@
 
 // 章节自动编号
 :sectnums:
-:toc:
+:toc: auto
 
 文档的基本介绍第一句。
 文档的基本介绍第二句，主要用来测试两句之间是否存在空格。
@@ -11,6 +11,14 @@
 == 第一章
 
 === 第一节
+
+AsciiDoc处理器名称为： *asciidoctor* ，版本编号({asciidoctor-version})。
+
+部分属性值如下：
+
+* attribute-missing = {attribute-missing}
+* asciidoctor-version = {asciidoctor-version}
+* toc = {toc}
 
 == 第二章
 
