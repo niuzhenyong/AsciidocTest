@@ -9,6 +9,8 @@
 
 == 第一章
 
+{outfilesuffix}
+
 === 第一节
 
 AsciiDoc处理器名称为： *asciidoctor* ，版本编号({asciidoctor-version})。
